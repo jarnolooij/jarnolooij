@@ -23,9 +23,13 @@
   ![Angular](https://img.shields.io/badge/Angular-red?style=flat-square&logo=angular)
   ![Symfony](https://img.shields.io/badge/Symfony-black?style=flat-square&logo=symfony)
 
+  ![Android](https://img.shields.io/badge/Android-05150C?style=flat-square&logo=android)
+  ![Ios](https://img.shields.io/badge/iOS-05150C?style=flat-square&logo=iOS)
+  ![Flutter](https://img.shields.io/badge/Flutter-blue?style=flat-square&logo=flutter)
+
+
   ![C#](https://img.shields.io/badge/C%23-purple?style=flat-square&logo=C%23)
   ![C++](https://img.shields.io/badge/C++-purple?style=flat-square&logo=c++)
-  ![Android](https://img.shields.io/badge/Android-05150C?style=flat-square&logo=android)
   ![Java](https://img.shields.io/badge/Java-orange?style=flat-square&logo=java)
   ![Kotlin]( https://img.shields.io/badge/Kotlin-black?style=flat-square&logo=kotlin)
   ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)

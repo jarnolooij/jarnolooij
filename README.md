@@ -8,7 +8,6 @@
 
   ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
   ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
-  [![Editor](https://img.shields.io/badge/Editor-Visual-Studio-blue?style=flat-square&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)
   ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code)
   ![PHP Storm](https://img.shields.io/badge/PHPSTORM-pink?style=flat-square&logo=phpstorm)
   ![IntelliJ](https://img.shields.io/badge/-IntelliJ%20IDEA-black?style=flat-square&logo=jetbrains)

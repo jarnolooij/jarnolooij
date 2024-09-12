@@ -22,6 +22,7 @@
   ![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
   ![Angular](https://img.shields.io/badge/Angular-red?style=flat-square&logo=angular)
   ![Symfony](https://img.shields.io/badge/Symfony-black?style=flat-square&logo=symfony)
+  ![ASP.NET](https://img.shields.io/badge/ASP.NET-purple?style=flat-square&logo=asp.net)
 
   ![Android](https://img.shields.io/badge/Android-05150C?style=flat-square&logo=android)
   ![Ios](https://img.shields.io/badge/iOS-05150C?style=flat-square&logo=iOS)
@@ -32,7 +33,8 @@
   ![C++](https://img.shields.io/badge/C++-purple?style=flat-square&logo=c++)
   ![Java](https://img.shields.io/badge/Java-orange?style=flat-square&logo=java)
   ![Kotlin]( https://img.shields.io/badge/Kotlin-black?style=flat-square&logo=kotlin)
-  ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
+  ![Python](https://img.shields.io/badge/Python-black?style=flat-square&logo=Python)
+  ![.NET](https://img.shields.io/badge/.NET-purple?style=flat-square&logo=.net)
 
 ## My Github stats 🚀
 ![Your Name's GitHub Stats](https://github-readme-stats.vercel.app/api?username=jarnolooij&show_icons=true&rank_icon=github&theme=github_dark_dimmed&include_all_commits=true&hide=contribs,issues)

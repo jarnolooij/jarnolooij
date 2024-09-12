@@ -26,7 +26,6 @@
   ![C#](https://img.shields.io/badge/C%23-purple?style=flat-square&logo=C%23)
   ![C++](https://img.shields.io/badge/C++-purple?style=flat-square&logo=c++)
   ![Android](https://img.shields.io/badge/Android-05150C?style=flat-square&logo=android)
-  ![Firebase](https://img.shields.io/badge/Firebase-black?style=flat-square&logo=firebase)
   ![Java](https://img.shields.io/badge/Java-orange?style=flat-square&logo=java)
   ![Kotlin]( https://img.shields.io/badge/Kotlin-black?style=flat-square&logo=kotlin)
   ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)

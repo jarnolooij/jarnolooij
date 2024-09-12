@@ -4,7 +4,7 @@
  
  [![LinkedIn](https://img.shields.io/badge/LinkedIn-jarnolooij-informational?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jarnolooij/)  [![Instagram](https://img.shields.io/badge/Instagram-jarnolooij-informational?style=flat-square&logo=instagram&logoColor=pink)](https://www.instagram.com/in/jarno_looij/)
 
- ## 🚀💻 Technologies & Tools
+ ## 💻🔧 Technologies & Tools
 
   ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
   ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)

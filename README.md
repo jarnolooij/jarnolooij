@@ -1,6 +1,6 @@
  ![HI](/header.png)
 
- ## Socials
+ ## 🌌 Socials
  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-jarnolooij-informational?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jarno-looij-176b26180/)  [![Instagram](https://img.shields.io/badge/Instagram-jarno_looij-informational?style=flat-square&logo=instagram&logoColor=pink)](https://www.instagram.com/jarno_looij/)
 
@@ -36,5 +36,5 @@
   ![Python](https://img.shields.io/badge/Python-black?style=flat-square&logo=Python)
   ![.NET](https://img.shields.io/badge/.NET-purple?style=flat-square&logo=.net)
 
-## My Github stats 🚀
+## 🚀 My Github stats
 ![Your Name's GitHub Stats](https://github-readme-stats.vercel.app/api?username=jarnolooij&show_icons=true&rank_icon=github&theme=github_dark_dimmed&include_all_commits=true&hide=contribs,issues) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jarnolooij&layout=compact&theme=github_dark_dimmed)

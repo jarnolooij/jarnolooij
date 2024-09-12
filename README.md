@@ -24,7 +24,7 @@
   ![Angular](https://img.shields.io/badge/Angular-06062C?style=flat-square&logo=angular)
   ![Symfony](https://img.shields.io/badge/Symfony-black?style=flat-square&logo=symfony)
 
-  ![C#](https://img.shields.io/badge/C#-purple?style=flat-square&logo=C#)
+  ![C#](https://img.shields.io/badge/C%23-purple?style=flat-square&logo=C%23)
   ![C++](https://img.shields.io/badge/C++-purple?style=flat-square&logo=c++)
   ![Android](https://img.shields.io/badge/Android-05150C?style=flat-square&logo=android)
   ![Firebase](https://img.shields.io/badge/Firebase-black?style=flat-square&logo=firebase)

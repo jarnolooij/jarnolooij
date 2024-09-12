@@ -15,15 +15,12 @@
   ![Postman](https://img.shields.io/badge/Postman-black?style=flat-square&logo=postman)
   ![Arduino](https://img.shields.io/badge/Arduino-black?style=flat-square&logo=arduino)
   
-  ![Apache2](https://img.shields.io/badge/Apache2-black?style=flat-square&logo=apache)
   ![PHP](https://img.shields.io/badge/PHP-black?style=flat-square&logo=php)
   ![HTML](https://img.shields.io/badge/HTML-green?style=flat-square&logo=html)
   ![CSS](https://img.shields.io/badge/css-blue?style=flat-square&logo=css)
   ![JavaScript](https://img.shields.io/badge/javascript-yellow?style=flat-square&logo=javascript)
-  ![OpenSSL](https://img.shields.io/badge/OpenSSL-black?style=flat-square&logo=openssl)
   ![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
-  ![MariaDB](https://img.shields.io/badge/MariaDB-black?style=flat-square&logo=mariadb)
-  ![Angular](https://img.shields.io/badge/Angular-06062C?style=flat-square&logo=angular)
+  ![Angular](https://img.shields.io/badge/Angular-red?style=flat-square&logo=angular)
   ![Symfony](https://img.shields.io/badge/Symfony-black?style=flat-square&logo=symfony)
 
   ![C#](https://img.shields.io/badge/C%23-purple?style=flat-square&logo=C%23)

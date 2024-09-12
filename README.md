@@ -5,4 +5,4 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jarnolooij&layout=compact)
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id&left_color=green&right_color=red)
+![visitors](https://visitor-badge.glitch.me/badge?page_id=jarnolooij.&left_color=green&right_color=red)

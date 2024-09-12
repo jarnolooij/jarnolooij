@@ -1,6 +1,6 @@
  ![HI](/header.png)
 
- [![LinkedIn](https://img.shields.io/badge/LinkedIn-br3ndonland-informational?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jarnolooij/)
+ [![LinkedIn](https://img.shields.io/badge/LinkedIn-jarnolooij-informational?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jarnolooij/)
  [![Editor](https://img.shields.io/badge/Editor-VSCode-blue?style=flat-square&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)
  
 

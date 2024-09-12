@@ -26,7 +26,7 @@
   ![Android](https://img.shields.io/badge/Android-05150C?style=flat-square&logo=android)
   ![Ios](https://img.shields.io/badge/iOS-05150C?style=flat-square&logo=iOS)
   ![Flutter](https://img.shields.io/badge/Flutter-blue?style=flat-square&logo=flutter)
-
+  ![React](https://img.shields.io/badge/React-blue?style=flat-square&logo=react)
 
   ![C#](https://img.shields.io/badge/C%23-purple?style=flat-square&logo=C%23)
   ![C++](https://img.shields.io/badge/C++-purple?style=flat-square&logo=c++)

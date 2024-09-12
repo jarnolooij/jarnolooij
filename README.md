@@ -2,7 +2,7 @@
 
  ## Socials
  
- [![LinkedIn](https://img.shields.io/badge/LinkedIn-jarnolooij-informational?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jarnolooij/)
+ [![LinkedIn](https://img.shields.io/badge/LinkedIn-jarnolooij-informational?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jarnolooij/)  [![Instagram](https://img.shields.io/badge/Instagram-jarnolooij-informational?style=flat-square&logo=linkedin&logoColor=white)](https://www.instagram.com/in/jarnolooij/)
 
  ## 🚀💻 Technologies & Tools
 

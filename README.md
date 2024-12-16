@@ -23,8 +23,8 @@
   ![Angular](https://img.shields.io/badge/Angular-red?style=flat-square&logo=angular)
   ![Symfony](https://img.shields.io/badge/Symfony-black?style=flat-square&logo=symfony)
   ![ASP.NET](https://img.shields.io/badge/ASP.NET-purple?style=flat-square&logo=asp.net)
-  ![Vue.js](https://img.shields.io/badge/ASP.NET-purple?style=flat-square&logo=vue.js)
-  ![Thymeleaf](https://img.shields.io/badge/ASP.NET-purple?style=flat-square&logo=thymeleaf)
+  ![Vue.js](https://img.shields.io/badge/vue.js-green?style=flat-square&logo=vue.js)
+  ![Thymeleaf](https://img.shields.io/badge/thymeleaf-green?style=flat-square&logo=thymeleaf)
 
   ![Android](https://img.shields.io/badge/Android-05150C?style=flat-square&logo=android)
   ![Ios](https://img.shields.io/badge/iOS-05150C?style=flat-square&logo=iOS)
@@ -37,7 +37,7 @@
   ![Kotlin]( https://img.shields.io/badge/Kotlin-black?style=flat-square&logo=kotlin)
   ![Python](https://img.shields.io/badge/Python-black?style=flat-square&logo=Python)
   ![.NET](https://img.shields.io/badge/.NET-purple?style=flat-square&logo=.net)
-  ![Springboot](https://img.shields.io/badge/.NET-purple?style=flat-square&logo=springboot)
+  ![Springboot](https://img.shields.io/badge/springboot-green?style=flat-square&logo=springboot)
 
 ## 🚀 My Github stats
 ![Your Name's GitHub Stats](https://github-readme-stats.vercel.app/api?username=jarnolooij&show_icons=true&rank_icon=github&theme=github_dark_dimmed&include_all_commits=true&hide=contribs,issues) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jarnolooij&layout=compact&theme=github_dark_dimmed)

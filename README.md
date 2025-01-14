@@ -7,7 +7,7 @@
  ## 💻🔧 Technologies & Tools
 
   ![Unity](https://img.shields.io/badge/-Unity-black?style=flat-square&logo=unity)
-  ![Unreal Engine](https://img.shields.io/badge/-Unreal-red?style=flat-square&logo=unreal)
+  ![Unreal Engine](https://img.shields.io/badge/-UnrealEngine-red?style=flat-square&logo=unrealengine)
 
   ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
   ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
